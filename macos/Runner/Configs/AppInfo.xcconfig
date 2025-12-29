@@ -8,7 +8,7 @@
 PRODUCT_NAME = codeman
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = kr.co.dentaljob
+PRODUCT_BUNDLE_IDENTIFIER = kr.co.dental.job
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
