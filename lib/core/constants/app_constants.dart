@@ -1,3 +1,3 @@
 class AppConstants {
-  static const String webViewUrl = "https://devu.dentaljob.co.kr/";
+  static const String webViewUrl = "https://www.dentaljob.co.kr";
 }
